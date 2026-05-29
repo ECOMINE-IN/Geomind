@@ -1,2 +1,19 @@
-# Geomind
-AI-Driven Geophysical Mineral Exploration Using CNNs, Bayesian Neural Networks and POMDP Systems
+
+AI-Driven Geophysical Mineral Exploration Platform
+
+## Vision
+
+An intelligent exploration platform that integrates:
+
+- Hyperspectral Analysis
+- Convolutional Neural Networks
+- Bayesian Neural Networks
+- Geophysical Data Fusion
+- POMDP Decision Intelligence
+
+to generate:
+
+- Mineral Prospectivity Maps
+- Confidence Maps
+- Exploration Recommendations
+- Drill Target Suggestions
