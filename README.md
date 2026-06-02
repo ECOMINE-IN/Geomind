@@ -11,7 +11,7 @@ An intelligent exploration platform that integrates:
 - Geophysical Data Fusion
 - POMDP Decision Intelligence
 
-to generate:
+To generate:
 
 - Mineral Prospectivity Maps
 - Confidence Maps
